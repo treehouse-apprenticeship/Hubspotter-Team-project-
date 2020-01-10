@@ -5,3 +5,5 @@
 * [Wilhelmine Capre](wilhelmine_capre.md)
 
 * [Tasneem Amreliwala](tasneem_amreliwala.md)
+
+* [Allison Kemmerle](allison_kemmerle.md)
